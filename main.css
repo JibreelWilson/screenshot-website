@@ -1,0 +1,122 @@
+
+body{
+	background-color: #eae5e8;
+}
+.navbar-default {
+    background: #283e4a;
+    color:ivory;
+}
+.row{
+    border:1px solid dimgrey;
+    margin-top: -1%;
+}
+img{
+    position: relative;
+    top:9px;
+    left:224px;
+}
+.form-control{
+    position: absolute;
+    top:14%;
+    left:20%;
+}
+.line2{
+    position: absolute;
+    top:50px;
+    background-color: ivory;
+    width: 220px;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 4%;
+    margin-left: 7%;
+    height:20%;      
+}
+.profile{
+    text-align: center;
+    width:25%;
+}
+@media (min-width: 200px){
+.container {
+    background-color: ivory;
+    width: 220px;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 4%;
+    margin-left: 7%;
+}
+}
+.container-fluid{
+    margin-top: 0px;
+    color:#848484;
+}
+.jumbotron{
+    position: relative;
+    top:-282px;
+    left:-33px;
+    width:30%;
+    height: 45% ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -292px;
+    background-color: ivory;
+}
+
+.navlist{
+    color: #848484;
+}
+.lead{
+    width:20px;
+    margin-right: auto;
+}
+.banner{
+    margin-top:56px;
+    margin-left:32px;
+}
+.profile{
+    margin-top:56px;
+    margin-left:32px;
+}
+.list-group{
+    width: 200px;
+}
+.img-rounded {
+    width: 198px;
+    border-radius: 6px;
+    margin-left: -48px;
+    z-index: 10;
+}
+.img-circle{
+    width: 156px;
+    margin-left: -27px;
+    z-index: 20;  
+}
+.list-group-item {
+    position: relative;
+    top:45px;
+    left:190px;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+.buttons{
+    padding: 10px;
+    text-align: right;
+    padding-bottom: 1px;
+}
+.m-4{
+    padding-left: 40px;
+}
+.card{
+     margin-left: : auto;
+     background-color: ivory;
+}
+.card-img-top{
+    position: absolute;
+    top:99px;
+    right:187px;
+    margin-left: auto;
+}
